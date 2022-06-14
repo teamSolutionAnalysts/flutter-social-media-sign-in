@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custome Widget</string>
+    <string name="facebook_app_id">538424078024636</string>
+    <string name="fb_login_protocol_scheme">0f37c32ed8a7886cbc213eab06f6a580</string>
+    <string name="facebook_client_token">0bee39ba5d2e6146fb961ec6017c4060</string>
+
+</resources>
