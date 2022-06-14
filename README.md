@@ -1,7 +1,6 @@
 Social Media Sign In - Google, Facebook, Apple
 
 
-
 ################## Facebook Login ##################
 plugin => flutter_login_facebook: ^1.4.1
 
